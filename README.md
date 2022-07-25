@@ -1,4 +1,4 @@
-# emily-portfolio
+# The Great Shark Quiz
 
 ## Project setup
 ```
