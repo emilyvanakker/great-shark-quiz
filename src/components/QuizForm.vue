@@ -27,13 +27,13 @@ const questions = [
   },
   {
     question: "Tiger sharks can live for up to _____ years.",
-    choices: ["25", "50", "60", "75"],
-    rightAnswer: "50",
+    choices: [25, 50, 60, 65],
+    rightAnswer: 50,
   },
   {
     question: "Approximately how much does a full-grown great white shark weigh?",
     choices: ["1,000 pounds", "2,000 pounds", "3,000 pounds", "5,000 pounds"],
-    rightAnswer: "5000",
+    rightAnswer: "5,000 pounds",
   },
 ];
 export default {
